@@ -1,0 +1,19 @@
+.reddish {
+    background-color: rgb(219, 136, 143);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#number2 {
+    color:aqua;
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: chartreuse;
+    font-size: 24xp;
+    font-weight: bold;
+}
+
+.special {
+    font-size: 24px;
+}
